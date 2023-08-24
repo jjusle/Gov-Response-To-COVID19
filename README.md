@@ -10,3 +10,10 @@ interesting because of how some countries act and perform differently compared t
 countries even with similar variables and we can measure how the public’s health is generally
 doing and how the government is responding to these Public Health Measures. It is only
 measured if there are at least 10 out of 13 measures coded.
+
+# How to Recreate the Project
+The data used in this project comes from: https://www.openicpsr.org/openicpsr/project/119061/version/V7/view;jsessionid=95551619CD8DE77E69617E68B959F496
+
+It is a public dataset and domain
+
+With the provided code, one can make different combinations of variables/regressors to include or exclude in regressions. 
